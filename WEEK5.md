@@ -281,3 +281,435 @@ Focus on:
 ✔ Elasticity  
 ✔ Discrimination  
 ✔ Dynamic pricing  
+
+Your Week 5 notes are already **very strong (≈90%)** 👍
+Now I’ll refine it like before:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky questions (exam level)**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 5 ADDITIONS)
+
+---
+
+# 🔴 1. PENETRATION PRICING (VERY IMPORTANT — MISSING)
+
+---
+
+### ❓ What is penetration pricing?
+
+👉 Setting **low initial price** to gain market share
+
+---
+
+### ❓ When used?
+
+👉
+
+* Highly competitive markets
+* Price-sensitive customers
+
+---
+
+### ❗ Difference:
+
+| Strategy    | Price          |
+| ----------- | -------------- |
+| Skimming    | High → low     |
+| Penetration | Low → increase |
+
+---
+
+---
+
+# 🔴 2. PERCEIVED VALUE PRICING
+
+---
+
+### ❓ What is it?
+
+👉 Price based on **customer perception**, not cost
+
+---
+
+👉 Example:
+
+* Premium brands
+
+---
+
+---
+
+# 🔴 3. COST-BASED vs VALUE-BASED PRICING
+
+---
+
+### ❓ Difference:
+
+| Type        | Basis               |
+| ----------- | ------------------- |
+| Cost-based  | Cost + margin       |
+| Value-based | Customer perception |
+
+---
+
+---
+
+# 🔴 4. PRICE ELASTICITY — DEEPER INSIGHT
+
+You covered basics, but missing:
+
+---
+
+### ❓ Sign of elasticity?
+
+👉 Usually **negative**
+
+---
+
+### ❓ Why?
+
+👉 Price ↑ → demand ↓
+
+---
+
+---
+
+### ❓ Perfectly inelastic?
+
+👉 Demand constant
+
+---
+
+### ❓ Perfectly elastic?
+
+👉 Demand extremely sensitive
+
+---
+
+---
+
+# 🔴 5. CROSS ELASTICITY (IMPORTANT)
+
+---
+
+### ❓ What is cross elasticity?
+
+👉 Effect of **price of one product on another**
+
+---
+
+### ❓ Interpretation:
+
+| Value    | Meaning    |
+| -------- | ---------- |
+| Positive | Substitute |
+| Negative | Complement |
+
+---
+
+---
+
+# 🔴 6. TWO-PART TARIFF (VERY IMPORTANT)
+
+---
+
+### ❓ What is it?
+
+👉 Fixed fee + usage charge
+
+---
+
+👉 Example:
+
+* Gym membership
+* Telecom plans
+
+---
+
+---
+
+# 🔴 7. BLOCK PRICING (FROM YOUR PDFs)
+
+---
+
+### ❓ What is it?
+
+👉 Price changes after quantity threshold
+
+---
+
+---
+
+# 🔴 8. MARKDOWN PRICING (IMPORTANT)
+
+---
+
+### ❓ What is it?
+
+👉 Planned price reduction over time
+
+---
+
+---
+
+# 🔴 9. COMPETITOR-BASED PRICING
+
+---
+
+### ❓ What is it?
+
+👉 Price based on competitor pricing
+
+---
+
+---
+
+# 🔴 10. DEMAND CURVE LINK (VERY IMPORTANT)
+
+---
+
+### ❓ Shape?
+
+👉 Downward sloping
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Which pricing aims market share?
+
+a) Skimming
+b) Penetration
+c) Dynamic
+d) Bundling
+
+👉 ✅ Answer: b
+
+---
+
+---
+
+### ❓ Q2. Which pricing depends on perception?
+
+👉 Perceived value pricing
+
+---
+
+---
+
+### ❓ Q3. Cross elasticity positive means?
+
+👉 Substitute goods
+
+---
+
+---
+
+### ❓ Q4. Cross elasticity negative means?
+
+👉 Complementary goods
+
+---
+
+---
+
+### ❓ Q5. Two-part tariff includes?
+
+👉 Fixed + variable
+
+---
+
+---
+
+### ❓ Q6. Which pricing reduces over time?
+
+👉 Markdown pricing
+
+---
+
+---
+
+### ❓ Q7. Which is NOT pricing objective?
+
+a) Profit
+b) Survival
+c) Random
+d) Market share
+
+👉 ✅ Answer: c
+
+---
+
+---
+
+### ❓ Q8. If elasticity > 1?
+
+👉 Elastic demand
+
+---
+
+---
+
+### ❓ Q9. If elasticity < 1?
+
+👉 Inelastic demand
+
+---
+
+---
+
+### ❓ Q10. Which strategy builds loyalty?
+
+👉 Value pricing
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. Elasticity always positive
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. Skimming uses low price
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. Bundling = discrimination
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. Dynamic pricing fixed
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q15.
+
+Netflix subscription model → ?
+
+👉 Two-part tariff
+
+---
+
+---
+
+### ❓ Q16.
+
+Buy 1 get 1 free → ?
+
+👉 Bundling
+
+---
+
+---
+
+### ❓ Q17.
+
+Uber surge pricing → ?
+
+👉 Dynamic pricing
+
+---
+
+---
+
+### ❓ Q18.
+
+Luxury brand pricing high → ?
+
+👉 Perceived value pricing
+
+---
+
+---
+
+# 🔥 NUMERICAL QUESTIONS
+
+---
+
+### ❓ Q19.
+
+Price ↑ 10%
+Demand ↓ 20%
+
+Elasticity = -2
+
+---
+
+---
+
+### ❓ Q20.
+
+Price ↓ 10%
+Demand ↑ 5%
+
+Elasticity = 0.5 → inelastic
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term        | Meaning     |
+| ----------- | ----------- |
+| Skimming    | High → low  |
+| Penetration | Low → high  |
+| Dynamic     | Flexible    |
+| Bundling    | Combo       |
+| Elasticity  | Sensitivity |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to notes:
+
+✔ Penetration pricing
+✔ Cross elasticity
+✔ Two-part tariff
+✔ Markdown pricing
+✔ Cost vs value pricing
+✔ Demand curve
+
+---
+
+
