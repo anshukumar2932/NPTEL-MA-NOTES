@@ -327,5 +327,290 @@ Focus on:
 ✔ Functions
 ✔ Packages
 
+Your Week 1 notes are already **very solid** 👍 — honestly better than what most students prepare.
+
+But if you want **FULL marks**, here’s what you’re **missing / should add** 👇
+
+---
+
+# 🚨 WHAT YOU MISSED (IMPORTANT ADDITIONS)
+
+---
+
+# 🔴 1. VECTOR CREATION METHODS (VERY COMMON MCQ)
+
+You defined vector, but not **how to create it**
+
+### ❓ Q. How to create vector?
+
+```r
+c(1,2,3)
+```
+
+👉 `c()` = combine function
+
+---
+
+### ❓ Other ways:
+
+```r
+1:5        # sequence
+seq(1,10,2)
+rep(1,5)
+```
+
+---
+
+# 🔴 2. LENGTH FUNCTION
+
+### ❓ Q. How to find length of vector?
+
+```r
+length(x)
+```
+
+👉 VERY commonly asked
+
+---
+
+# 🔴 3. CLASS vs MODE (CONFUSION TRAP)
+
+You only wrote **mode**
+
+### ❓ Difference?
+
+👉 `mode()` → internal storage
+👉 `class()` → object type
+
+---
+
+### ❓ Example:
+
+```r
+class(dataframe)
+```
+
+---
+
+# 🔴 4. DATA FRAME CREATION (IMPORTANT)
+
+You defined it but didn’t show creation
+
+### ❓ Q. How to create?
+
+```r
+df <- data.frame(name="A", age=20)
+```
+
+---
+
+# 🔴 5. INDEXING (VERY IMPORTANT 🔥)
+
+Almost always asked indirectly
+
+---
+
+### ❓ Vector indexing:
+
+```r
+x[1]
+```
+
+---
+
+### ❓ Matrix indexing:
+
+```r
+x[1,2]
+```
+
+👉 row, column
+
+---
+
+# 🔴 6. ASSIGNMENT OPERATORS
+
+### ❓ Q. Assignment in R?
+
+```r
+<- 
+=
+```
+
+👉 `<-` preferred
+
+---
+
+# 🔴 7. LOGICAL OPERATORS (MISSING)
+
+---
+
+### ❓ Examples:
+
+```r
+x > 5
+x == 2
+x != 3
+```
+
+---
+
+### ❓ AND / OR:
+
+```r
+&   # AND
+|   # OR
+```
+
+---
+
+# 🔴 8. IMPORTANT BUILT-IN FUNCTIONS (HIGH PROBABILITY)
+
+You only gave mean & sum
+
+👉 Add these:
+
+```r
+min(x)
+max(x)
+median(x)
+sd(x)
+var(x)
+```
+
+---
+
+# 🔴 9. SEQUENCE vs REPEAT (COMMON CONFUSION)
+
+---
+
+### ❓ seq():
+
+👉 generates sequence
+
+---
+
+### ❓ rep():
+
+👉 repeats values
+
+---
+
+---
+
+# 🔴 10. INSTALL vs LIBRARY (VERY IMPORTANT TRAP)
+
+---
+
+### ❓ install.packages()
+
+👉 installs package
+
+---
+
+### ❓ library()
+
+👉 loads package
+
+---
+
+👉 EXAM TRAP 🔥
+
+---
+
+# 🔴 11. WORKSPACE CONCEPT
+
+---
+
+### ❓ Workspace?
+
+👉 Environment where variables are stored
+
+---
+
+---
+
+# 🔴 12. PRINT vs OUTPUT
+
+---
+
+### ❓ print()
+
+👉 explicitly display output
+
+---
+
+---
+
+# 🔴 13. COMMON ERRORS (VERY USEFUL)
+
+---
+
+### ❓ NA vs NULL
+
+👉 NA = missing value
+👉 NULL = no value
+
+---
+
+---
+
+# 🔴 14. EXTRA MCQs YOU MISSED
+
+---
+
+### ❓ R is case sensitive?
+
+👉 ✅ True
+
+---
+
+### ❓ Everything in R is?
+
+👉 Object
+
+---
+
+### ❓ Data frame is?
+
+👉 List of equal length vectors
+
+---
+
+---
+
+# 🔴 15. VERY IMPORTANT CONCEPT (OFTEN ASKED)
+
+---
+
+### ❓ What is vectorization?
+
+👉 Operations applied on entire vector
+
+Example:
+
+```r
+x + 2
+```
+
+---
+
+---
+
+# 🎯 FINAL ADD-ON SUMMARY
+
+Add these to your notes:
+
+✔ Vector creation methods
+✔ length()
+✔ class()
+✔ indexing
+✔ logical operators
+✔ install vs library
+✔ basic stats functions
+✔ vectorization
+
+---
+
 
 
