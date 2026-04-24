@@ -249,9 +249,9 @@ Good catch — this is a **very common confusion** 👍
 
 ## 📌 Conceptual Formula
 
-\[
+$$
 RMSEA = \sqrt{\frac{\chi^2 - df}{df (N - 1)}}
-\]
+$$
 
 ---
 
