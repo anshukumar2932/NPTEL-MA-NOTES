@@ -140,6 +140,50 @@
 
 ### ❓ Q16. Does CBC use linear regression?
 👉 ❌ No  
+Good catch — this is a **very common confusion** 👍
+
+---
+
+### ❓ Q16. Does Choice-Based Conjoint (CBC) use linear regression?
+
+👉 ❌ **Incorrect statement:** CBC uses linear regression
+👉 ✅ **Correct answer:** **No**
+
+---
+
+### ✅ What does CBC actually use?
+
+👉 CBC typically uses:
+
+* **Logistic Regression**
+* **Multinomial Logit Models (MNL)**
+
+---
+
+### 💡 Why not linear regression?
+
+* Linear regression → continuous output
+* CBC → **choice data (discrete: choose A/B/C)**
+
+👉 So we need **probability-based models**, not linear ones.
+
+---
+
+### 🧠 Final Exam Line (remember this):
+
+👉 **CBC = Choice → Logistic / Logit model**
+👉 **NOT linear regression**
+
+---
+
+### 🔁 Quick Comparison
+
+| Method                  | Used for          |
+| ----------------------- | ----------------- |
+| Linear Regression       | Continuous values |
+| Logistic Regression     | Binary choice     |
+| Multinomial Logit (CBC) | Multiple choices  |
+
 
 ---
 
