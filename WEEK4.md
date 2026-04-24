@@ -296,3 +296,469 @@ Focus on:
 ✔ RMSE  
 ✔ PLC  
 ✔ Demand law  
+
+Great — your Week 4 is already strong. Now I’ll do the same as before:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky questions (exam level)**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 4 ADDITIONS)
+
+---
+
+# 🔴 1. ELASTICITY (VERY IMPORTANT — YOU PARTIALLY MISSED)
+
+You mentioned one case, but not full concept.
+
+---
+
+### ❓ Price Elasticity of Demand?
+
+👉 Responsiveness of demand to price change
+
+---
+
+### ❓ Types:
+
+* Elastic (>1)
+* Inelastic (<1)
+* Unit elastic (=1)
+
+---
+
+### ❓ Revenue relation:
+
+| Elasticity | Revenue         |
+| ---------- | --------------- |
+| >1         | Opposite change |
+| <1         | Same direction  |
+| =1         | No change       |
+
+---
+
+---
+
+# 🔴 2. FORECASTING TYPES (IMPORTANT)
+
+---
+
+### ❓ Types:
+
+👉
+
+* Qualitative (judgmental)
+* Quantitative (time series, regression)
+
+---
+
+---
+
+# 🔴 3. MOVING AVERAGE (VERY IMPORTANT)
+
+---
+
+### ❓ What is SMA?
+
+👉 Average of past values
+
+---
+
+### ❓ Why odd periods preferred?
+
+👉 Centered properly
+
+---
+
+### ❓ Even periods require?
+
+👉 Double smoothing
+
+---
+
+---
+
+# 🔴 4. SOLVER (VERY IMPORTANT — FROM YOUR PDFs)
+
+---
+
+### ❓ What is Solver?
+
+👉 Optimization tool
+
+---
+
+### ❓ Objective:
+
+👉 Minimize RMSE / maximize profit
+
+---
+
+### ❓ Decision variable?
+
+👉 Price
+
+---
+
+---
+
+# 🔴 5. TIME SERIES DECOMPOSITION (IMPORTANT)
+
+---
+
+### ❓ Additive model:
+
+👉 X = Trend + Seasonality + Error
+
+---
+
+### ❓ Multiplicative model:
+
+👉 X = Trend × Seasonality × Error
+
+---
+
+---
+
+# 🔴 6. FORECAST ACCURACY MEASURES (MISSING)
+
+---
+
+### ❓ Measures:
+
+* RMSE
+* MAE
+* MAPE
+
+---
+
+---
+
+# 🔴 7. ERROR TYPES (VERY IMPORTANT)
+
+---
+
+### ❓ Bias:
+
+👉 Consistent over/under prediction
+
+---
+
+### ❓ Random error:
+
+👉 Unpredictable
+
+---
+
+---
+
+# 🔴 8. PLC — DEEPER CONCEPT
+
+---
+
+### ❓ Growth stage:
+
+👉 Rapid sales increase
+
+---
+
+### ❓ Maturity:
+
+👉 High competition
+
+---
+
+### ❓ Decline:
+
+👉 Falling demand
+
+---
+
+---
+
+# 🔴 9. DEMAND FUNCTION (VERY IMPORTANT)
+
+---
+
+### ❓ Formula:
+
+👉 D = a - bP
+
+---
+
+### ❓ Meaning:
+
+👉 Price ↑ → demand ↓
+
+---
+
+---
+
+# 🔴 10. REVENUE FUNCTION (VERY IMPORTANT)
+
+---
+
+### ❓ Formula:
+
+👉 R = P × D
+
+---
+
+---
+
+# 🔴 11. PROFIT MAXIMIZATION (ADVANCED)
+
+---
+
+### ❓ Condition:
+
+👉 First derivative = 0
+
+👉 Second derivative < 0
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Which is NOT forecasting type?
+
+a) Qualitative
+b) Quantitative
+c) Predictive
+d) Random
+
+👉 ✅ Answer: d
+
+---
+
+---
+
+### ❓ Q2. RMSE measures?
+
+a) Bias
+b) Accuracy
+c) Mean
+d) Trend
+
+👉 ✅ Answer: b
+
+---
+
+---
+
+### ❓ Q3. If RMSE increases?
+
+👉 Model becomes worse
+
+---
+
+---
+
+### ❓ Q4. Which model uses multiplication?
+
+👉 Multiplicative model
+
+---
+
+---
+
+### ❓ Q5. Which stage has highest growth?
+
+👉 Growth stage
+
+---
+
+---
+
+### ❓ Q6. Which stage has highest competition?
+
+👉 Maturity
+
+---
+
+---
+
+### ❓ Q7. Which stage requires awareness creation?
+
+👉 Introduction
+
+---
+
+---
+
+### ❓ Q8. If demand is elastic, price decrease leads to?
+
+👉 Revenue increase
+
+---
+
+---
+
+### ❓ Q9. Forecast error positive means?
+
+👉 Underestimation
+
+---
+
+---
+
+### ❓ Q10. Which method uses past data patterns?
+
+👉 Time series
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. RMSE can be negative
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. Forecasting uses future data
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. Elasticity always positive
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. PLC always same for all products
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 NUMERICAL QUESTIONS
+
+---
+
+### ❓ Q15.
+
+Actual = 150
+Forecast = 120
+
+Error = 30
+
+---
+
+---
+
+### ❓ Q16.
+
+Errors: 2, -3, 4
+
+RMSE = √((4 + 9 + 16)/3)
+
+---
+
+---
+
+### ❓ Q17.
+
+D = 100 - 2P
+
+If P = 10
+
+D = 80
+
+---
+
+---
+
+### ❓ Q18.
+
+Revenue = 10 × 80 = 800
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q19.
+
+No past data → ?
+
+👉 Judgmental forecasting
+
+---
+
+---
+
+### ❓ Q20.
+
+Seasonal sales spikes → ?
+
+👉 Seasonality
+
+---
+
+---
+
+### ❓ Q21.
+
+Long-term increase → ?
+
+👉 Trend
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term        | Meaning   |
+| ----------- | --------- |
+| Forecasting | Predict   |
+| RMSE        | Accuracy  |
+| Trend       | Long-term |
+| Seasonality | Repeating |
+| Error       | Random    |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to notes:
+
+✔ Elasticity types
+✔ Moving average
+✔ Solver
+✔ Demand function
+✔ Revenue function
+✔ Forecasting types
+
+
