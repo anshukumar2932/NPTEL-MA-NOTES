@@ -311,3 +311,477 @@ Focus on:
 ✔ Collaborative filtering  
 ✔ Sparse matrix  
 ✔ Clustering basics  
+
+Your Week 7 notes are already **very good (~90–92%)** 👍
+Now let’s push it to **full exam-ready (100%)** with:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky questions (exam level)**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 7 ADDITIONS)
+
+---
+
+# 🔴 1. CONTENT-BASED FILTERING (VERY IMPORTANT — MISSING)
+
+You only covered collaborative filtering.
+
+---
+
+### ❓ What is content-based filtering?
+
+👉 Recommends items based on **item features + user history**
+
+---
+
+### ❓ Example:
+
+👉 If you like action movies → recommend similar genre
+
+---
+
+### ❗ Difference:
+
+| Method        | Based on      |
+| ------------- | ------------- |
+| Collaborative | Users         |
+| Content-based | Item features |
+
+---
+
+---
+
+# 🔴 2. HYBRID RECOMMENDER SYSTEM
+
+---
+
+### ❓ What is hybrid system?
+
+👉 Combination of collaborative + content-based
+
+---
+
+👉 Used in real systems (Netflix, Amazon)
+
+---
+
+---
+
+# 🔴 3. COSINE SIMILARITY (VERY IMPORTANT 🔥)
+
+---
+
+### ❓ What is it?
+
+👉 Measures similarity between vectors
+
+---
+
+### ❓ Formula idea:
+
+👉 (A · B) / (|A||B|)
+
+---
+
+👉 Common in recommender systems
+
+---
+
+---
+
+# 🔴 4. DISTANCE vs SIMILARITY (CONFUSION TRAP)
+
+---
+
+### ❓ Difference:
+
+| Concept    | Meaning       |
+| ---------- | ------------- |
+| Distance   | Dissimilarity |
+| Similarity | Closeness     |
+
+---
+
+---
+
+# 🔴 5. TRAIN-TEST SPLIT PURPOSE
+
+---
+
+### ❓ Why split data?
+
+👉 Avoid overfitting
+
+---
+
+---
+
+# 🔴 6. OVERFITTING (VERY IMPORTANT)
+
+---
+
+### ❓ What is overfitting?
+
+👉 Model performs well on training but poorly on test
+
+---
+
+---
+
+# 🔴 7. UNDERFITTING
+
+---
+
+### ❓ What is underfitting?
+
+👉 Model too simple
+
+---
+
+---
+
+# 🔴 8. EVALUATION METRICS (ADVANCED)
+
+---
+
+### ❓ What is accuracy?
+
+👉 Correct predictions
+
+---
+
+### ❓ What is precision?
+
+👉 Relevant predictions
+
+---
+
+---
+
+# 🔴 9. SIMILARITY METHODS (IMPORTANT)
+
+---
+
+### ❓ Types:
+
+👉
+
+* Cosine
+* Pearson correlation
+
+---
+
+---
+
+# 🔴 10. CLUSTERING METHODS (YOU MISSED DETAIL)
+
+---
+
+### ❓ Types:
+
+👉
+
+* K-means
+* Hierarchical
+
+---
+
+---
+
+# 🔴 11. K-MEANS (VERY IMPORTANT)
+
+---
+
+### ❓ How it works?
+
+👉
+
+1. Choose K
+2. Assign points
+3. Update centroid
+
+---
+
+---
+
+# 🔴 12. K-MEANS LIMITATIONS
+
+---
+
+👉
+
+* Sensitive to initialization
+* Needs K
+* Affected by outliers
+
+---
+
+---
+
+# 🔴 13. COLD START PROBLEM (DEEPER)
+
+---
+
+### ❓ Types:
+
+👉
+
+* New user
+* New item
+
+---
+
+---
+
+# 🔴 14. SPARSITY PROBLEM (IMPORTANT)
+
+---
+
+### ❓ What is it?
+
+👉 Too many missing values
+
+---
+
+---
+
+# 🔴 15. RECOMMENDATION SCORE (IMPORTANT)
+
+---
+
+### ❓ How recommendation works?
+
+👉 Weighted average of similar users/items
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Content-based filtering uses?
+
+a) Users
+b) Item features
+c) Random
+d) Price
+
+👉 ✅ Answer: b
+
+---
+
+---
+
+### ❓ Q2. Hybrid recommender combines?
+
+👉 Collaborative + content
+
+---
+
+---
+
+### ❓ Q3. Cosine similarity measures?
+
+👉 Angle between vectors
+
+---
+
+---
+
+### ❓ Q4. Overfitting means?
+
+👉 Good training, poor testing
+
+---
+
+---
+
+### ❓ Q5. Underfitting means?
+
+👉 Model too simple
+
+---
+
+---
+
+### ❓ Q6. Train-test split prevents?
+
+👉 Overfitting
+
+---
+
+---
+
+### ❓ Q7. Which is similarity method?
+
+👉 Cosine
+
+---
+
+---
+
+### ❓ Q8. K-means requires?
+
+👉 Number of clusters (K)
+
+---
+
+---
+
+### ❓ Q9. Cold start problem means?
+
+👉 No data
+
+---
+
+---
+
+### ❓ Q10. Sparse matrix contains?
+
+👉 Few non-zero values
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. Collaborative uses item features
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. Clustering is supervised
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. Cosine similarity gives distance
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. Overfitting is good
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q15.
+
+Recommend based on similar items → ?
+
+👉 Content-based
+
+---
+
+---
+
+### ❓ Q16.
+
+Recommend based on similar users → ?
+
+👉 Collaborative
+
+---
+
+---
+
+### ❓ Q17.
+
+New user no data → ?
+
+👉 Cold start
+
+---
+
+---
+
+### ❓ Q18.
+
+Too many empty ratings → ?
+
+👉 Sparsity problem
+
+---
+
+---
+
+# 🔥 NUMERICAL / CONCEPT
+
+---
+
+### ❓ Q19.
+
+Similarity high → ?
+
+👉 More similar
+
+---
+
+---
+
+### ❓ Q20.
+
+Distance high → ?
+
+👉 Less similar
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term          | Meaning    |
+| ------------- | ---------- |
+| Collaborative | Users      |
+| Content-based | Items      |
+| Sparse        | Few values |
+| Clustering    | Grouping   |
+| ML            | Prediction |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to your notes:
+
+✔ Content-based filtering
+✔ Hybrid recommender
+✔ Cosine similarity
+✔ Overfitting / underfitting
+✔ K-means
+✔ Train-test split
+
+---
+
