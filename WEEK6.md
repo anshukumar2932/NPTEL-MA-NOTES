@@ -273,3 +273,430 @@ Focus on:
 ✔ Elasticity  
 ✔ Pricing  
 ✔ Halo effect  
+
+Your Week 6 notes are already **very strong (~90–92%)** 👍
+Now let’s push it to **full marks level (100%)** with:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky questions (exam level)**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 6 ADDITIONS)
+
+---
+
+# 🔴 1. ADSTOCK (VERY IMPORTANT 🔥 — MISSING)
+
+From your course PDFs, this is **core MMM concept**
+
+---
+
+### ❓ What is Adstock?
+
+👉 Carry-over effect of advertising over time
+
+---
+
+### ❓ Formula idea:
+
+👉 Current impact = current ad + decay × previous effect
+
+---
+
+### ❓ What is λ (lambda)?
+
+👉 Decay factor (0 to 1)
+
+---
+
+### ❓ Interpretation:
+
+* λ high → long-lasting effect
+* λ low → short-lived effect
+
+---
+
+---
+
+# 🔴 2. ROI (VERY IMPORTANT IN MMM)
+
+---
+
+### ❓ What is ROI?
+
+👉 Return on investment
+
+---
+
+### ❓ Why important?
+
+👉 Measure effectiveness of marketing spend
+
+---
+
+---
+
+# 🔴 3. OWN vs CROSS ELASTICITY (IMPORTANT)
+
+---
+
+### ❓ Own price elasticity?
+
+👉 Effect of price on its own demand (negative)
+
+---
+
+### ❓ Cross elasticity?
+
+👉 Effect of other product price
+
+---
+
+---
+
+# 🔴 4. DIMINISHING RETURNS (VERY IMPORTANT)
+
+---
+
+### ❓ What is diminishing return?
+
+👉 Increasing ads → smaller incremental effect
+
+---
+
+👉 Very common in MMM
+
+---
+
+---
+
+# 🔴 5. MULTICOLLINEARITY (ADVANCED MMM CONCEPT)
+
+---
+
+### ❓ What is it?
+
+👉 Independent variables correlated
+
+---
+
+### ❓ Problem?
+
+👉 Hard to interpret model
+
+---
+
+---
+
+# 🔴 6. MODEL OUTPUT INTERPRETATION (VERY IMPORTANT)
+
+---
+
+### ❓ What does coefficient mean?
+
+👉 Impact of variable on sales
+
+---
+
+👉 Positive → increase
+👉 Negative → decrease
+
+---
+
+---
+
+# 🔴 7. SCENARIO ANALYSIS (MMM USE)
+
+---
+
+### ❓ What is it?
+
+👉 Testing different marketing spend scenarios
+
+---
+
+---
+
+# 🔴 8. MARKETING CHANNEL EFFECTS
+
+---
+
+### ❓ Different channels behave differently?
+
+👉 Yes
+
+---
+
+👉 TV vs digital → different impact
+
+---
+
+---
+
+# 🔴 9. OPTIMIZATION IN MMM (IMPORTANT LINK)
+
+---
+
+### ❓ What is optimized?
+
+👉 Budget allocation
+
+---
+
+---
+
+# 🔴 10. HALO EFFECT — DEEPER INSIGHT
+
+---
+
+### ❓ Opposite of halo?
+
+👉 Horn effect (negative bias)
+
+---
+
+---
+
+# 🔴 11. FACTOR — EXTRA DETAIL
+
+---
+
+### ❓ Factor levels?
+
+👉 Categories
+
+---
+
+### ❓ Example:
+
+👉 Low, Medium, High
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Adstock captures?
+
+a) Current effect only
+b) Past effect only
+c) Carry-over effect
+d) Random effect
+
+👉 ✅ Answer: c
+
+---
+
+---
+
+### ❓ Q2. Lambda (λ) represents?
+
+👉 Decay factor
+
+---
+
+---
+
+### ❓ Q3. High λ means?
+
+👉 Long-lasting advertising effect
+
+---
+
+---
+
+### ❓ Q4. MMM helps in?
+
+👉 Budget optimization
+
+---
+
+---
+
+### ❓ Q5. Which is NOT MMM benefit?
+
+a) ROI
+b) Budget allocation
+c) Data deletion
+d) Effectiveness
+
+👉 ✅ Answer: c
+
+---
+
+---
+
+### ❓ Q6. Multicollinearity means?
+
+👉 Variables correlated
+
+---
+
+---
+
+### ❓ Q7. Optimization aims?
+
+👉 Best solution
+
+---
+
+---
+
+### ❓ Q8. Elasticity measures?
+
+👉 Sensitivity
+
+---
+
+---
+
+### ❓ Q9. Halo effect is?
+
+👉 Positive bias
+
+---
+
+---
+
+### ❓ Q10. optim() default?
+
+👉 Minimization
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. Elasticity = optimization
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. MMM only predicts sales
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. ROI measures cost only
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. Adstock ignores past ads
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q15.
+
+Past ads still impacting sales → ?
+
+👉 Adstock
+
+---
+
+---
+
+### ❓ Q16.
+
+Customer thinks product good because brand good → ?
+
+👉 Halo effect
+
+---
+
+---
+
+### ❓ Q17.
+
+Allocate budget across channels → ?
+
+👉 MMM
+
+---
+
+---
+
+### ❓ Q18.
+
+Increase ads but little sales increase → ?
+
+👉 Diminishing returns
+
+---
+
+---
+
+# 🔥 NUMERICAL-TYPE QUESTION
+
+---
+
+### ❓ Q19.
+
+Adₜ = 100
+λ = 0.5
+Previous = 80
+
+Adstock = 100 + 0.5×80 = 140
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term         | Meaning             |
+| ------------ | ------------------- |
+| MMM          | Budget optimization |
+| Elasticity   | Sensitivity         |
+| Adstock      | Carry-over          |
+| Halo         | Bias                |
+| Optimization | Best solution       |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to your notes:
+
+✔ Adstock
+✔ Lambda (decay)
+✔ ROI
+✔ Diminishing returns
+✔ Multicollinearity
+✔ Scenario analysis
+
+---
+
+
