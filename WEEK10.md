@@ -382,3 +382,476 @@
 * dimension reduction = better clustering
 
 ---
+
+Your Week 10 notes are already **excellent (~95%)** 🔥
+Now let’s push them to **perfect exam level (100%)** with:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky questions (exam level)**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 10 ADDITIONS)
+
+---
+
+# 🔴 1. BAG-OF-WORDS MODEL (VERY IMPORTANT 🔥)
+
+---
+
+### ❓ What is Bag-of-Words?
+
+👉 Represents text as **word frequency vector**
+
+---
+
+### ❓ Limitation?
+
+👉 Ignores word order
+
+---
+
+👉 VERY common MCQ
+
+---
+
+---
+
+# 🔴 2. N-GRAMS (IMPORTANT)
+
+---
+
+### ❓ What is N-gram?
+
+👉 Sequence of N words
+
+---
+
+### ❓ Types:
+
+* Unigram → 1 word
+* Bigram → 2 words
+* Trigram → 3 words
+
+---
+
+👉 Used to capture context
+
+---
+
+---
+
+# 🔴 3. ZERO-FREQUENCY PROBLEM (NAIVE BAYES)
+
+---
+
+### ❓ What is it?
+
+👉 Probability becomes zero if word not seen
+
+---
+
+### ❓ Solution?
+
+👉 Laplace smoothing
+
+---
+
+👉 VERY IMPORTANT 🔥
+
+---
+
+---
+
+# 🔴 4. TERM SPARSITY (IMPORTANT)
+
+---
+
+### ❓ Why text data sparse?
+
+👉 Most words don’t appear in most documents
+
+---
+
+---
+
+# 🔴 5. TF vs TF-IDF (CONFUSION TRAP)
+
+---
+
+### ❓ Difference:
+
+| Metric | Meaning    |
+| ------ | ---------- |
+| TF     | Frequency  |
+| TF-IDF | Importance |
+
+---
+
+---
+
+# 🔴 6. DOCUMENT FREQUENCY (DF)
+
+---
+
+### ❓ What is DF?
+
+👉 Number of documents containing word
+
+---
+
+---
+
+# 🔴 7. NORMALIZATION (IMPORTANT)
+
+---
+
+### ❓ Why normalize text?
+
+👉 Standardize values
+
+---
+
+---
+
+# 🔴 8. LEMMATIZATION vs STEMMING
+
+---
+
+### ❓ Difference:
+
+| Method        | Meaning         |
+| ------------- | --------------- |
+| Stemming      | crude root      |
+| Lemmatization | dictionary root |
+
+---
+
+---
+
+# 🔴 9. SENTIMENT ANALYSIS (VERY IMPORTANT)
+
+---
+
+### ❓ What is sentiment analysis?
+
+👉 Identify positive/negative opinion
+
+---
+
+---
+
+### ❓ Types:
+
+👉
+
+* Positive
+* Negative
+* Neutral
+
+---
+
+---
+
+# 🔴 10. POLARITY SCORE
+
+---
+
+### ❓ What is polarity?
+
+👉 Sentiment strength
+
+---
+
+---
+
+# 🔴 11. FEATURE SELECTION (IMPORTANT)
+
+---
+
+### ❓ Why needed?
+
+👉 Reduce irrelevant words
+
+---
+
+---
+
+# 🔴 12. TEXT MINING PIPELINE (FULL FLOW)
+
+---
+
+### ❓ Complete flow:
+
+👉
+Raw text → cleaning → tokenization → vectorization → model
+
+---
+
+---
+
+# 🔴 13. OVERFITTING IN TEXT MODELS
+
+---
+
+👉 Too many features → overfitting
+
+---
+
+---
+
+# 🔴 14. WORD EMBEDDINGS (ADVANCED — OPTIONAL BUT GOOD)
+
+---
+
+### ❓ What is it?
+
+👉 Represent words as vectors
+
+---
+
+---
+
+# 🔴 15. CORPUS TYPES
+
+---
+
+### ❓ Types:
+
+👉
+
+* Static corpus
+* Dynamic corpus
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Bag-of-words ignores?
+
+a) Frequency
+b) Meaning
+c) Order
+d) Words
+
+👉 ✅ Answer: c
+
+---
+
+---
+
+### ❓ Q2. Bigram consists of?
+
+👉 Two words
+
+---
+
+---
+
+### ❓ Q3. TF-IDF measures?
+
+👉 Importance
+
+---
+
+---
+
+### ❓ Q4. Naive Bayes assumes?
+
+👉 Independence
+
+---
+
+---
+
+### ❓ Q5. Zero frequency problem solution?
+
+👉 Laplace smoothing
+
+---
+
+---
+
+### ❓ Q6. NLP is used for?
+
+👉 Language processing
+
+---
+
+---
+
+### ❓ Q7. Corpus means?
+
+👉 Collection of text
+
+---
+
+---
+
+### ❓ Q8. Feature selection reduces?
+
+👉 Dimensionality
+
+---
+
+---
+
+### ❓ Q9. Sentiment analysis identifies?
+
+👉 Opinion
+
+---
+
+---
+
+### ❓ Q10. DF measures?
+
+👉 Documents containing word
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. TF-IDF = frequency only
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. Bag-of-words preserves order
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. Naive Bayes assumes dependency
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. Text mining uses structured data
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q15.
+
+Email spam classification → ?
+
+👉 Naive Bayes
+
+---
+
+---
+
+### ❓ Q16.
+
+Word importance needed → ?
+
+👉 TF-IDF
+
+---
+
+---
+
+### ❓ Q17.
+
+Breaking sentence into words → ?
+
+👉 Tokenization
+
+---
+
+---
+
+### ❓ Q18.
+
+Removing “the”, “is” → ?
+
+👉 Stopword removal
+
+---
+
+---
+
+# 🔥 NUMERICAL / CONCEPT
+
+---
+
+### ❓ Q19.
+
+Word appears in many docs → IDF?
+
+👉 Low
+
+---
+
+---
+
+### ❓ Q20.
+
+Word appears in one doc → IDF?
+
+👉 High
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term   | Meaning        |
+| ------ | -------------- |
+| TF     | Frequency      |
+| IDF    | Rarity         |
+| NLP    | Language       |
+| Corpus | Text           |
+| Bayes  | Classification |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to your notes:
+
+✔ Bag-of-words
+✔ N-grams
+✔ Zero-frequency problem
+✔ Laplace smoothing
+✔ Sentiment analysis
+✔ Lemmatization vs stemming
+
+---
+
+
+
