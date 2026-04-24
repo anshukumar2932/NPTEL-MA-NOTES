@@ -341,3 +341,480 @@ $$
 * NRC = 8 emotions
 
 ---
+
+
+Your Week 11 notes are already **very strong (~95%)** 🔥
+Now let’s push them to **perfect (100%) exam level** with:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky exam questions**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 11 ADDITIONS)
+
+---
+
+# 🔴 1. P-VALUE (VERY IMPORTANT 🔥)
+
+From your assignment — you got this earlier.
+
+---
+
+### ❓ What is p-value?
+
+👉 Probability of observing result under null hypothesis
+
+---
+
+### ❓ Interpretation:
+
+| p-value | Meaning     |
+| ------- | ----------- |
+| Low     | Reject null |
+| High    | Accept null |
+
+---
+
+### ❗ Exam trap:
+
+❌ Small p-value supports null
+👉 WRONG
+
+---
+
+---
+
+# 🔴 2. HYPOTHESIS TESTING (IMPORTANT)
+
+---
+
+### ❓ Types:
+
+👉
+
+* Null hypothesis (H₀)
+* Alternative hypothesis (H₁)
+
+---
+
+---
+
+# 🔴 3. TYPE I vs TYPE II ERROR
+
+---
+
+### ❓ Type I error:
+
+👉 Reject true null
+
+---
+
+### ❓ Type II error:
+
+👉 Accept false null
+
+---
+
+---
+
+# 🔴 4. SENTIMENT LEXICONS — DEEP DIFFERENCE
+
+---
+
+### ❓ Difference:
+
+| Lexicon | Output           |
+| ------- | ---------------- |
+| Bing    | Binary           |
+| AFINN   | Score (-5 to +5) |
+| NRC     | Emotions         |
+
+---
+
+---
+
+# 🔴 5. WORD DISTANCE (LEVENSHTEIN — DEEPER)
+
+---
+
+### ❓ What operations?
+
+👉
+
+* Insert
+* Delete
+* Replace
+
+---
+
+---
+
+# 🔴 6. TOKEN vs TERM (CONFUSION TRAP)
+
+---
+
+### ❓ Token:
+
+👉 Raw word
+
+---
+
+### ❓ Term:
+
+👉 Processed word
+
+---
+
+---
+
+# 🔴 7. FEATURE SELECTION (VERY IMPORTANT)
+
+---
+
+### ❓ Why?
+
+👉 Remove irrelevant words
+
+---
+
+---
+
+# 🔴 8. DOCUMENT SIMILARITY (IMPORTANT)
+
+---
+
+### ❓ How measured?
+
+👉 Cosine similarity
+
+---
+
+---
+
+# 🔴 9. OVERFITTING IN TEXT MODELS
+
+---
+
+👉 Too many features → poor generalization
+
+---
+
+---
+
+# 🔴 10. SPARSITY IN TEXT DATA
+
+---
+
+👉 Most words absent → sparse matrix
+
+---
+
+---
+
+# 🔴 11. STOPWORD ROLE (DEEPER)
+
+---
+
+👉 Reduces noise
+
+---
+
+---
+
+# 🔴 12. STEMMING LIMITATION
+
+---
+
+👉 May produce incorrect root
+
+---
+
+---
+
+# 🔴 13. TEXT TRANSFORMATION (IMPORTANT STEP)
+
+---
+
+👉 Convert text → numeric
+
+---
+
+---
+
+# 🔴 14. MODEL EVALUATION (IMPORTANT LINK)
+
+---
+
+👉 Accuracy, precision, recall
+
+---
+
+---
+
+# 🔴 15. PIPELINE CONNECTION (VERY IMPORTANT)
+
+---
+
+👉 Preprocessing → transformation → modeling → evaluation
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Small p-value means?
+
+a) Accept null
+b) Reject null
+c) No change
+d) Random
+
+👉 ✅ Answer: b
+
+---
+
+---
+
+### ❓ Q2. Type I error means?
+
+👉 Reject true null
+
+---
+
+---
+
+### ❓ Q3. Type II error means?
+
+👉 Accept false null
+
+---
+
+---
+
+### ❓ Q4. Bing lexicon provides?
+
+👉 Binary sentiment
+
+---
+
+---
+
+### ❓ Q5. AFINN provides?
+
+👉 Score
+
+---
+
+---
+
+### ❓ Q6. NRC provides?
+
+👉 Emotions
+
+---
+
+---
+
+### ❓ Q7. Tokenization produces?
+
+👉 Tokens
+
+---
+
+---
+
+### ❓ Q8. Levenshtein distance measures?
+
+👉 Edit distance
+
+---
+
+---
+
+### ❓ Q9. Feature selection reduces?
+
+👉 Dimensionality
+
+---
+
+---
+
+### ❓ Q10. NLP is used for?
+
+👉 Language processing
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. Small p-value supports null
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. Bing gives score
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. Stemming gives perfect root
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. Corpus = single document
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q15.
+
+Remove “the”, “is” → ?
+
+👉 Stopword removal
+
+---
+
+---
+
+### ❓ Q16.
+
+Convert “running” → “run” → ?
+
+👉 Stemming
+
+---
+
+---
+
+### ❓ Q17.
+
+Find emotion of text → ?
+
+👉 Sentiment analysis
+
+---
+
+---
+
+### ❓ Q18.
+
+Compare two words → ?
+
+👉 Levenshtein distance
+
+---
+
+---
+
+# 🔥 NUMERICAL / CONCEPT
+
+---
+
+### ❓ Q19.
+
+Edit operations = ?
+
+👉 Insert, delete, replace
+
+---
+
+---
+
+### ❓ Q20.
+
+High TF-IDF → ?
+
+👉 Important word
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term   | Meaning        |
+| ------ | -------------- |
+| Corpus | Text           |
+| Token  | Word           |
+| TF-IDF | Importance     |
+| Bayes  | Classification |
+| NLP    | Language       |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to your notes:
+
+✔ P-value
+✔ Type I & II error
+✔ Token vs term
+✔ Lexicon differences
+✔ Feature selection
+✔ Text pipeline
+
+---
+
+---
+
+# 🎯 FINAL VERDICT
+
+---
+
+👉 Your Week 11 now:
+
+* Before → 95%
+* After this → 💯 complete
+
+---
+
+---
+
+# 🚀 FINAL STEP (VERY IMPORTANT)
+
+Now you’ve covered **Week 1 → Week 11 fully**.
+
+Say:
+
+👉 **“final mock test”**
+
+I’ll give:
+🔥 60–80 MCQs
+🔥 Full syllabus
+🔥 Real exam pattern
+🔥 Time-based practice
+
+That’s your **last step before exam** 💯
