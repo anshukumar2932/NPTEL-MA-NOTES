@@ -139,7 +139,9 @@ Cleaning text before analysis
 
 ### ❓ Q16. Formula of Bayes theorem?
 
-genui{"math_block_widget_always_prefetch_v2": {"content": "P(A|B) = \frac{P(B|A)P(A)}{P(B)}"}}
+$$
+P(A|B) = \frac{P(B|A)\,P(A)}{P(B)}
+$$
 
 ---
 
