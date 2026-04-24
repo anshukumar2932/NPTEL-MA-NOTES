@@ -232,13 +232,119 @@ Good catch — this is a **very common confusion** 👍
 
 ---
 
-### ❓ Q24. What is RMSEA?
-👉 Measure of model fit  
+# 🧠 RMSEA (Root Mean Square Error of Approximation)
 
 ---
 
-### ❓ Q25. Why RMSEA is used?
-👉 Avoids sample size issues  
+## ❓ Q24. What is RMSEA?
+
+👉 A **model fit measure** used in:
+
+- Structural Equation Modeling (SEM)
+- Confirmatory Factor Analysis (CFA)
+
+👉 It indicates **how well a model fits the population (not just the sample)**
+
+---
+
+## 📌 Conceptual Formula
+
+\[
+RMSEA = \sqrt{\frac{\chi^2 - df}{df (N - 1)}}
+\]
+
+---
+
+## 🧠 Components
+
+- **χ²** → Chi-square value  
+- **df** → Degrees of freedom  
+- **N** → Sample size  
+
+---
+
+## 🎯 Interpretation (Important)
+
+| RMSEA Value | Meaning        |
+|------------|----------------|
+| < 0.05     | Excellent fit  |
+| 0.05 – 0.08| Good fit       |
+| 0.08 – 0.10| Moderate fit   |
+| > 0.10     | Poor fit       |
+
+---
+
+## 🔥 Key Exam Points
+
+### ❓ What does RMSEA measure?
+
+👉 Model fit
+
+---
+
+### ❓ Is lower RMSEA better?
+
+👉 ✅ Yes — **Lower = better fit**
+
+---
+
+### ❓ Why is RMSEA preferred?
+
+👉 Because it:
+
+- Adjusts for **model complexity (df)**
+- Is **less sensitive to sample size**
+
+---
+
+### ❓ RMSEA helps avoid which issue?
+
+👉 Sample size problem
+
+---
+
+## 💡 Examples
+
+- **RMSEA = 0.04** → Excellent fit  
+- **RMSEA = 0.12** → Poor fit  
+
+---
+
+## ⚠️ Common Mistakes (Exam Traps)
+
+- ❌ High RMSEA = Good model  
+- ❌ RMSEA measures variance  
+- ❌ RMSEA is a regression coefficient  
+
+---
+
+## 🧠 Memory Trick
+
+👉 **RMSEA ↓ → Model 👍**  
+👉 **RMSEA ↑ → Model 👎**
+
+---
+
+## 🎯 Final Exam Line
+
+👉 *RMSEA is a goodness-of-fit measure that evaluates how well a model approximates the population covariance matrix while accounting for model complexity.*
+
+---
+
+# ❓ Q25. Why is RMSEA used?
+
+👉 RMSEA is used because it:
+
+- Reduces **sample size bias**
+- Adjusts for **model complexity**
+- Provides a **more realistic estimate of model fit**
+- Reflects how well the model would fit the **population**, not just the sample
+
+---
+
+## 🎯 One-Line Answer (Exam Ready)
+
+👉 *RMSEA is used because it provides a sample-size adjusted measure of model fit that accounts for model complexity.*
 
 ---
 
