@@ -606,3 +606,349 @@ Focus on:
 ✔ Conjoint  
 ✔ Z-score  
 ✔ R-square  
+
+You’ve done a **very strong job**—your Week 1 + Week 2 notes are already **90–95% exam-ready**. Now I’ll refine it using your uploaded course material and tell you **what you’re STILL missing (the final 5–10% that actually decides marks)**.
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (FROM ACTUAL COURSE + PQs)
+
+---
+
+# 🔴 1. DESCRIPTIVE vs DIAGNOSTIC ANALYTICS (VERY IMPORTANT 🔥)
+
+From your lecture PDFs: 
+
+You didn’t include this, but it’s **frequently asked**
+
+---
+
+### ❓ Q. Descriptive analytics?
+
+👉 What happened
+
+---
+
+### ❓ Q. Diagnostic analytics?
+
+👉 Why it happened
+
+---
+
+### ❗ Exam Trap:
+
+❌ Descriptive = why → WRONG
+
+---
+
+# 🔴 2. HYPOTHESIS THINKING (VERY IMPORTANT CONCEPT)
+
+From dashboard lecture: 
+
+---
+
+### ❓ What should a dashboard do?
+
+👉 Generate **questions & hypotheses**
+
+---
+
+### ❓ Example:
+
+👉 Sales spike in October → WHY?
+
+---
+
+### ❗ Key concept:
+
+👉 Good analytics = asking questions, not just showing data
+
+---
+
+---
+
+# 🔴 3. REAL MEANING OF CONJOINT (DEEPER LEVEL)
+
+You wrote definition—but missing **core logic**
+
+---
+
+### ❓ What does conjoint actually estimate?
+
+👉 **Utility (preference score)**
+
+---
+
+### ❓ Important concept:
+
+👉 Total utility = sum of part-worth utilities
+
+---
+
+### ❗ Exam trap:
+
+❌ Conjoint gives direct preference → WRONG
+👉 It gives **utility → then preference**
+
+---
+
+---
+
+# 🔴 4. PART-WORTH UTILITIES (VERY IMPORTANT)
+
+---
+
+### ❓ What is part-worth?
+
+👉 Contribution of each attribute level
+
+---
+
+### ❓ Example:
+
+| Attribute | Level | Utility |
+| --------- | ----- | ------- |
+| Price     | Low   | +2      |
+| Brand     | A     | +3      |
+
+👉 Total = 5
+
+---
+
+---
+
+# 🔴 5. CHOICE PROBABILITY (VERY IMPORTANT 🔥)
+
+You didn’t include this formula
+
+---
+
+### ❓ Formula:
+
+👉 Probability = Utility / Sum of Utilities
+
+---
+
+👉 Comes in MCQs indirectly
+
+---
+
+---
+
+# 🔴 6. LIMITATIONS OF CONJOINT (VERY COMMON THEORY)
+
+---
+
+### ❓ Limitations:
+
+👉
+
+* Too many attributes → confusion
+* Hypothetical choices
+* Cognitive overload
+
+---
+
+---
+
+# 🔴 7. CBC ADVANTAGE (MORE PRECISE)
+
+You wrote “realistic” but missing detail
+
+---
+
+### ❓ Why CBC better?
+
+👉
+
+* Mimics real choice
+* Reduces bias
+* Less cognitive load
+
+---
+
+---
+
+# 🔴 8. R-SQUARE INTERPRETATION (IMPORTANT DETAIL)
+
+---
+
+### ❓ What does R² = 0.8 mean?
+
+👉 80% variation explained
+
+---
+
+### ❗ Trap:
+
+❌ R² = accuracy → WRONG
+
+---
+
+---
+
+# 🔴 9. NEGATIVE R-SQUARE (WHY?)
+
+---
+
+### ❓ Why negative R²?
+
+👉 Model worse than mean
+
+---
+
+👉 Comes in tricky MCQs
+
+---
+
+---
+
+# 🔴 10. VARIANCE vs STANDARD DEVIATION
+
+You mentioned variance but not comparison
+
+---
+
+### ❓ Difference:
+
+| Measure  | Meaning           |
+| -------- | ----------------- |
+| Variance | squared deviation |
+| SD       | √variance         |
+
+---
+
+---
+
+# 🔴 11. STANDARDIZATION PROCESS (MISSING STEP)
+
+---
+
+### ❓ What happens in standardization?
+
+👉 Convert to Z-score
+
+👉 Mean = 0, Variance = 1
+
+---
+
+---
+
+# 🔴 12. RMSEA — EXTRA POINT (VERY IMPORTANT)
+
+You wrote well, but missing **core exam line from lecture**
+
+---
+
+👉 RMSEA compares:
+
+👉 **Model vs Population covariance matrix**
+
+(very important phrasing from assignment)
+
+---
+
+---
+
+# 🔴 13. FUNCTION str() — DEEPER UNDERSTANDING
+
+---
+
+### ❓ What does str() show?
+
+👉 Structure + type + preview
+
+---
+
+---
+
+# 🔴 14. REAL-LIFE APPLICATION QUESTIONS (VERY COMMON)
+
+From your course style:
+
+---
+
+### ❓ Why conjoint used?
+
+👉
+
+* Product design
+* Feature selection
+* Pricing
+
+---
+
+---
+
+# 🔴 15. KEY CONCEPT YOU COMPLETELY MISSED
+
+---
+
+# ⭐ HEURISTIC RESPONSE
+
+---
+
+### ❓ What is heuristic?
+
+👉 Shortcut decision
+
+---
+
+### ❓ In conjoint?
+
+👉 People may not think deeply
+
+---
+
+👉 This is asked in your assignment
+
+---
+
+---
+
+# 🔴 16. MOST IMPORTANT MISSING CONNECTION
+
+---
+
+👉 You studied topics separately
+👉 BUT exam mixes them
+
+---
+
+### Example:
+
+❓ Conjoint + regression + probability
+
+👉 Answer involves:
+
+* Utility
+* Logit model
+* Probability
+
+---
+
+---
+
+# 🔥 FINAL ADD-ON BLOCK (ADD THIS TO NOTES)
+
+---
+
+### 📌 Add these lines:
+
+* Conjoint → utility-based model
+* Part-worth → attribute contribution
+* CBC → logit model
+* R² → variance explained
+* RMSEA → population fit
+* Dashboard → hypothesis generation
+* Heuristic → shortcut decision
+
+---
+
+---
+
+# 🎯 FINAL VERDICT
+
+---
+
+
