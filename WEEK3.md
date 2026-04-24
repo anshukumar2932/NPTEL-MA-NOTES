@@ -161,7 +161,10 @@
 1. Segmentation  
 2. Targeting  
 3. Positioning  
-
+What’s the sequence for effective marketing strategy?
+1. Position services in such a way that resonates with the selected target market or markets.
+2. Find highly profitable segments and target them.
+3. Divide market into potential group segments.
 👉 Answer: **3 → 2 → 1 (in question format)**  
 
 ---
@@ -275,6 +278,13 @@
 ---
 
 ### ❓ Q36. Target market criteria?
+Which of the following criteria statements are correct for target markets?
+1. The market must be large enough to justify segmenting. If the market is small, it may make it smaller.
+2. Anticipated profits must exceed the costs of additional marketing plans and other changes.
+3. Different segments must need different benefits.
+4. Each segment must be accessible to your team and the segment must be able to receive your marketing messages.
+5. Measurable differences must exist between segments.
+   
 👉 All of the above  
 
 ---
