@@ -358,3 +358,479 @@ Types:
 5. Dashboard = insights
 
 
+
+Your Week 12 notes are already **excellent (~95–97%)** 🔥
+This is your **final week**, so now we’ll make it **perfect (100%)**:
+
+👉 **1. What ELSE to add (missing high-yield concepts)**
+👉 **2. More advanced + tricky exam questions**
+
+---
+
+# 🚨 WHAT YOU’RE STILL MISSING (WEEK 12 ADDITIONS)
+
+---
+
+# 🔴 1. STRUCTURAL HOLE (VERY IMPORTANT 🔥)
+
+From your lecture case (VERY HIGH PROBABILITY)
+
+---
+
+### ❓ What is structural hole?
+
+👉 Gap between two groups in a network
+
+---
+
+### ❓ Why important?
+
+👉 Node connecting them becomes **critical bridge**
+
+---
+
+👉 Example:
+👉 Process Engineering Leader
+
+---
+
+---
+
+# 🔴 2. DEGREE CENTRALITY (MISSING)
+
+---
+
+### ❓ What is degree centrality?
+
+👉 Number of direct connections
+
+---
+
+👉 High degree = more influence
+
+---
+
+---
+
+# 🔴 3. CLOSENESS CENTRALITY
+
+---
+
+### ❓ What is it?
+
+👉 How close a node is to all others
+
+---
+
+👉 Faster information spread
+
+---
+
+---
+
+# 🔴 4. CENTRALIZATION vs CENTRALITY (CONFUSION TRAP)
+
+---
+
+| Term           | Meaning           |
+| -------------- | ----------------- |
+| Centrality     | Node importance   |
+| Centralization | Network structure |
+
+---
+
+---
+
+# 🔴 5. NETWORK DENSITY FORMULA
+
+---
+
+### ❓ Density = ?
+
+👉 Actual connections / possible connections
+
+---
+
+---
+
+# 🔴 6. DIRECTED vs UNDIRECTED NETWORK
+
+---
+
+### ❓ Directed:
+
+👉 A → B
+
+---
+
+### ❓ Undirected:
+
+👉 A — B
+
+---
+
+---
+
+# 🔴 7. WEIGHTED NETWORK
+
+---
+
+### ❓ What is it?
+
+👉 Connections have strength
+
+---
+
+---
+
+# 🔴 8. INFORMATION FLOW (IMPORTANT)
+
+---
+
+👉 Strong networks → faster information
+
+👉 Weak networks → slow flow
+
+---
+
+---
+
+# 🔴 9. ORGANIZATIONAL SILOS (VERY IMPORTANT)
+
+---
+
+### ❓ What are silos?
+
+👉 Departments not communicating
+
+---
+
+👉 Causes inefficiency
+
+---
+
+---
+
+# 🔴 10. HIERARCHY EFFECT (VERY IMPORTANT 🔥)
+
+---
+
+### ❓ What happens?
+
+👉 People follow boss, not data
+
+---
+
+👉 Leads to wrong decisions
+
+---
+
+---
+
+# 🔴 11. DASHBOARD — DEEPER CONCEPT
+
+---
+
+### ❓ Good dashboard does?
+
+👉
+
+* Shows trends
+* Raises questions
+* Supports decisions
+
+---
+
+---
+
+# 🔴 12. DESCRIPTIVE vs DIAGNOSTIC (IMPORTANT)
+
+---
+
+### ❓ Descriptive:
+
+👉 What happened
+
+---
+
+### ❓ Diagnostic:
+
+👉 Why it happened
+
+---
+
+---
+
+# 🔴 13. COMBO CHART (VERY IMPORTANT)
+
+---
+
+### ❓ What is combo chart?
+
+👉 Bar + line chart
+
+---
+
+---
+
+# 🔴 14. SECONDARY AXIS
+
+---
+
+### ❓ Why used?
+
+👉 Different scales
+
+---
+
+---
+
+# 🔴 15. SLICERS (VERY IMPORTANT)
+
+---
+
+### ❓ What are slicers?
+
+👉 Interactive filters
+
+---
+
+---
+
+# 🔴 16. REPORT CONNECTION
+
+---
+
+### ❓ What does it do?
+
+👉 Connect slicer to multiple charts
+
+---
+
+---
+
+# 🔥 NOW — ADD MORE QUESTIONS (EXAM LEVEL)
+
+---
+
+# 🧠 ADVANCED MCQs
+
+---
+
+### ❓ Q1. Structural hole represents?
+
+a) Strong connection
+b) Gap in network
+c) Node
+d) Tie
+
+👉 ✅ Answer: b
+
+---
+
+---
+
+### ❓ Q2. Degree centrality measures?
+
+👉 Number of connections
+
+---
+
+---
+
+### ❓ Q3. Betweenness centrality measures?
+
+👉 Bridge role
+
+---
+
+---
+
+### ❓ Q4. Closeness centrality measures?
+
+👉 Distance to others
+
+---
+
+---
+
+### ❓ Q5. Density measures?
+
+👉 Connectivity
+
+---
+
+---
+
+### ❓ Q6. Bullwhip effect caused by?
+
+👉 Poor communication
+
+---
+
+---
+
+### ❓ Q7. Dashboard is?
+
+👉 Descriptive analytics
+
+---
+
+---
+
+### ❓ Q8. Pivot table is used for?
+
+👉 Aggregation
+
+---
+
+---
+
+### ❓ Q9. Slicer is?
+
+👉 Filter
+
+---
+
+---
+
+### ❓ Q10. Combo chart includes?
+
+👉 Bar + line
+
+---
+
+---
+
+# 🔥 TRICK QUESTIONS
+
+---
+
+### ❓ Q11. Nodes = relationships
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q12. Ties = people
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q13. Dashboard explains why automatically
+
+👉 ❌ False
+
+---
+
+---
+
+### ❓ Q14. Bullwhip effect reduces with no communication
+
+👉 ❌ False
+
+---
+
+---
+
+# 🔥 CASE-BASED QUESTIONS
+
+---
+
+### ❓ Q15.
+
+One node connects two groups → ?
+
+👉 Structural hole
+
+---
+
+---
+
+### ❓ Q16.
+
+Employee connects many people → ?
+
+👉 High degree centrality
+
+---
+
+---
+
+### ❓ Q17.
+
+Manager influences decisions → ?
+
+👉 Central node
+
+---
+
+---
+
+### ❓ Q18.
+
+Departments don’t communicate → ?
+
+👉 Organizational silos
+
+---
+
+---
+
+# 🔥 NUMERICAL / CONCEPT
+
+---
+
+### ❓ Q19.
+
+More connections → ?
+
+👉 Higher centrality
+
+---
+
+---
+
+### ❓ Q20.
+
+Dense network → ?
+
+👉 Strong connectivity
+
+---
+
+---
+
+# 🔥 MATCH-TYPE QUESTIONS
+
+---
+
+| Term       | Meaning       |
+| ---------- | ------------- |
+| Node       | Person        |
+| Tie        | Relationship  |
+| Centrality | Importance    |
+| Bullwhip   | Distortion    |
+| Dashboard  | Visualization |
+
+---
+
+---
+
+# 🚨 FINAL ADD-ON BLOCK
+
+Add these to your notes:
+
+✔ Structural hole
+✔ Degree & closeness centrality
+✔ Network density
+✔ Hierarchy effect
+✔ Slicers & combo charts
+✔ Dashboard types
+
+---
